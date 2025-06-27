@@ -1,10 +1,8 @@
-Here’s a clean and professional **README description** for your `TicTacToe` Java project, suitable for GitHub:
-
 ---
 
-## ❌⭕ TicTacToe – Java Console Game
+## ❌⭕ Tic-Tac-Toe – Java Console Game
 
-`TicTacToe` is a classic two-player game built using Java, designed to run in the console. It’s a fun and educational project that helps beginners strengthen their understanding of programming fundamentals like arrays, conditionals, loops, and basic game logic.
+`Tic-Tac-Toe` is a classic two-player game built using Java, designed to run in the console. It’s a fun and educational project that helps beginners strengthen their understanding of programming fundamentals like arrays, conditionals, loops, and basic game logic.
 
 ### 🎮 Features
 
